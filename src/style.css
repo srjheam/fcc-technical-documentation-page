@@ -164,6 +164,13 @@ body {
     transition: 250ms;
 }
 
+@media (max-width: 600px) {
+    main#main-doc code {
+        margin: 28px -32px;
+        border-radius: 0;
+    }
+}
+
 #main-doc code {
     display: inline-block;
 
