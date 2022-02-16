@@ -141,6 +141,8 @@ body {
 #main-doc .main-section header {
     color: #213547;
 
+    text-align: left;
+
     font-size: 2.5em;
     font-weight: 500;
 }
@@ -174,7 +176,6 @@ body {
 #main-doc code {
     display: inline-block;
 
-    margin: 28px 0;
     padding: 14px 24px;
 
     border-radius: 8px;
