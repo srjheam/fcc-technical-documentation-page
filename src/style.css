@@ -49,6 +49,8 @@ body {
 #navbar ul {
     flex: 1;
 
+    overflow-y: auto;
+
     list-style-type: none;
     margin: 0;
     padding-inline: 0 0;
