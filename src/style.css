@@ -12,6 +12,8 @@ html {
 
 @media (max-width: 600px) {
     body {
+        max-height: none !important;
+
         flex-direction: column;
     }
 }
